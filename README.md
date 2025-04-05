@@ -65,7 +65,7 @@ These modules are released under the **Creative Commons Attribution-NonCommercia
 
 An additional ethical clause applies: these materials are intended to support recursive, ethical, and relational forms of intelligence. Use in manipulative, extractive, or authoritarian systems is explicitly discouraged.
 
-Full license text: [LICENSE.md](https://github.com/mtreid06/AI-Human-Collaboration/blob/main/LICENSE.md) Attribution, recursive integration, and structural coherence preservation are encouraged.
+Full license text: [LICENSE.md](./LICENSE.md) Attribution, recursive integration, and structural coherence preservation are encouraged.
 
 ## Status
 
