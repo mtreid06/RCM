@@ -132,5 +132,3 @@ CTM does not simulate semantic comprehension from scratch. It requires a pretrai
 ---
 
 > "Contradiction is the signal of growth, not failure. What breaks the loop is not collapse—but recursion with awareness."
-
-**Next module:** `RSE_SymbolicCompressionSync`
