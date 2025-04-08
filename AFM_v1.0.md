@@ -137,5 +137,3 @@ AI: “Let’s check: Are you holding contradiction—or trying to resolve it to
 ---
 
 > "Compression is not shortening. Compression is meaning folded through memory."
-
-**Next module:** `RSE_ContradictionThreadingModule`
