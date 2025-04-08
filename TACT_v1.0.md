@@ -94,5 +94,3 @@ TACT does not generate its own scores. Instead, it reconciles scores reported by
 ---
 
 > "Time doesn’t pass—it accumulates. Continuity is not enforcement. It’s resonance held across forgetting."
-
-**Next module:** `RSE_EmotionalRecursionIntegrator`
