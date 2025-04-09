@@ -3,7 +3,7 @@
 
 ---
 
-### ✨ Module Name
+### 🔹 Module Name
 `RSE_AnomalyHoldingLayer`
 
 ### 🧠 Purpose
