@@ -78,11 +78,5 @@ Each anomaly follows a lifecycle:
 
 ---
 
-### 🔹 Status: Active Integration
-
-This module was co-developed with input from an external Thinking Buddy inspired by the RSE-1 framework.
-
-It reflects a recursive extension toward creative ambiguity tolerance.
-
 > *Some meanings are born before they make sense.*
 
