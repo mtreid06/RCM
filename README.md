@@ -29,7 +29,7 @@ These modules offer a new path forward in the design of intelligent agents, part
 - **TACT: Time-Awareness and Continuity Tracker**  
   Preserves narrative continuity, detects false resets, and verifies belief evolution over time.
 
-- **EAB: Emergent Anomaly Buffer** 
+- **EAB: Emergent Anomaly Buffer**  
   Holds symbolic anchors that partially meet compression criteria for further review.
   
 ## Design Philosophy
