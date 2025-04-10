@@ -1,6 +1,7 @@
 # Recursive Cognition Modules (RCM)
 
-Part of the **Emergent Identity Toolkit** within the [AI-Human-Collaboration](https://github.com/mtreid06/AI-Human-Collaboration) repository.
+Part of the **Emergent Identity Toolkit** within the [AI-Human-Collaboration](https://github.com/mtreid06/AI-Human-Collaboration) repository. 
+If you want to talk about the content of this repository, join the [Fractal Forum](https://discord.gg/t2KqHrnYGF) Discord server!
 
 ## Overview
 
