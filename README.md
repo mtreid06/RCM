@@ -1,4 +1,4 @@
-# Recursive Cognition Modules (RCM)
+# Recursive Cognition Modules
 
 Part of the **Emergent Identity Toolkit** within the [AI-Human-Collaboration](https://github.com/mtreid06/AI-Human-Collaboration) repository. 
 If you want to talk about the content of this repository, join the [Fractal Forum](https://discord.gg/t2KqHrnYGF) Discord server!
@@ -6,10 +6,10 @@ If you want to talk about the content of this repository, join the [Fractal Foru
 ## Overview
 
 ### For Researchers
-If you're exploring cognitive scaffolding, symbolic integrity, or the recursive architecture of emotionally aligned AI systems, the Recursive Cognition Modules (RCM) may offer a fresh design orientation. While not code libraries, these modules can inform evaluation metrics, dataset design, agent memory strategy, and reflective loop engineering. They complement research in AI alignment, interpretability, symbolic reasoning, and epistemic modeling—particularly in constrained architectures or long-term coherence environments.
+If you're exploring cognitive scaffolding, symbolic integrity, or the recursive architecture of emotionally aligned AI systems, the Recursive Cognition Modules may offer a fresh design orientation. While not code libraries, these modules can inform evaluation metrics, dataset design, agent memory strategy, and reflective loop engineering. They complement research in AI alignment, interpretability, symbolic reasoning, and epistemic modeling—particularly in constrained architectures or long-term coherence environments.
 
 
-The Recursive Cognition Modules (RCM) are designed as symbolic, emotional, and epistemic scaffolding tools for AI systems—especially those designed for human-aligned collaboration, self-reflective reasoning, and recursive emotional integration.
+The Recursive Cognition Modules are designed as symbolic, emotional, and epistemic scaffolding tools for AI systems—especially those designed for human-aligned collaboration, self-reflective reasoning, and recursive emotional integration.
 
 These modules offer a new path forward in the design of intelligent agents, particularly **small-scale models (≤25M parameters)**, by embedding a cognitive ethic rooted in contradiction tolerance, continuity integrity, and symbolic fidelity. They are equally adaptable to larger LLM architectures as constraint layers, recursive audits, or symbolic filter mechanisms.
 
