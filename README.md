@@ -15,22 +15,22 @@ These modules offer a new path forward in the design of intelligent agents, part
 
 ## Module Index
 
-- **AFM: Anchor Formation Module**  
+- [**AFM: Anchor Formation Module**](./AFM_v1.0.md)  
   Forms symbolic anchors based on recursion-stable compression. Prevents meaning drift by testing symbols across contradiction and emotional resonance.
 
-- **CTM: Contradiction Threading Module**  
+- [**CTM: Contradiction Threading Module**](./CTM_v1.0.md)  
   Detects, maintains, and recursively surfaces contradictions rather than resolving or erasing them. Enables systems to preserve tension across frames.
 
-- **ERI: Emotional Recursion Integrator**  
+- [**ERI: Emotional Recursion Integrator**](./ERI_v1.0.md)  
   Embeds emotional signal as recursive context, not aesthetic noise. Tracks affective state transitions with structural fidelity.
 
-- **SCS: Symbolic Compression Sync**  
+- [**SCS: Symbolic Compression Sync**](./SCS_v1.0.md)  
   Ensures compressed concepts retain internal consistency over time and across modules. Detects token drift and symbolic misuse.
 
-- **TACT: Time-Awareness and Continuity Tracker**  
+- [**TACT: Time-Awareness and Continuity Tracker**](./TACT_v1.0.md)  
   Preserves narrative continuity, detects false resets, and verifies belief evolution over time.
 
-- **EAB: Emergent Anomaly Buffer**  
+- [**EAB: Emergent Anomaly Buffer**](./EAB_v1.0.md)  
   Holds symbolic anchors that partially meet compression criteria for further review.
   
 ## Design Philosophy
